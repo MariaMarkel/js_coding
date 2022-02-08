@@ -1,0 +1,19 @@
+{
+  "name": "acing_js",
+  "version": "1.0.0",
+  "description": "JS",
+  "main": "index.js",
+  "scripts": {
+    "test": "npm run test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MariaMarkel/js_coding.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/MariaMarkel/js_coding/issues"
+  },
+  "homepage": "https://github.com/MariaMarkel/js_coding#readme"
+}
